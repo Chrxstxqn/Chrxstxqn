@@ -142,18 +142,6 @@ I specialize in creating **cross-platform applications** and exploring cutting-e
           Network stress testing tool for educational purposes.
         </p>
       </td>
-      <td width="50%">
-        <h3 align="center">🐧 Pingusay</h3>
-        <div align="center">
-          <a href="https://github.com/Chrxstxqn/Pingusay" target="_blank">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=Chrxstxqn&repo=Pingusay&theme=react&bg_color=1F222E&title_color=00D4AA&hide_border=true" />
-          </a>
-        </div>
-        <p align="center">
-          <strong>Python • Utility Tool</strong><br/>
-          Simple Python utility for network connectivity testing.
-        </p>
-      </td>
     </tr>
   </table>
 </div>

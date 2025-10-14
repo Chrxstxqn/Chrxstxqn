@@ -5,7 +5,7 @@
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px" /> Welcome to my digital world! 🌍
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00D4AA&center=true&vCenter=true&width=600&lines=🚀+Mobile+%26+Web+Developer;📱+Flutter+%26+Dart+Specialist;🔐+Cybersecurity+Enthusiast;⚙️+IoT+%26+MQTT+Expert;💡+Always+Learning+New+Tech" alt="Typing SVG" />
+  <h2>🚀 Mobile & Web Developer | 📱 Flutter & Dart Specialist<br/>🔐 Cybersecurity Enthusiast | ⚙️ IoT & MQTT Expert | 💡 Always Learning New Tech</h2>
 </div>
 
 <p align="center">
@@ -79,58 +79,6 @@ I specialize in creating **cross-platform applications** and exploring cutting-e
   <table>
     <tr>
       <td width="50%">
-        <h3 align="center">🎮 ScalaDash</h3>
-        <div align="center">
-          <a href="https://github.com/Chrxstxqn/ScalaDash" target="_blank">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=Chrxstxqn&repo=ScalaDash&theme=react&bg_color=1F222E&title_color=00D4AA&hide_border=true" />
-          </a>
-        </div>
-        <p align="center">
-          <strong>TypeScript • Three.js • Web</strong><br/>
-          Interactive 3D web experience with modern UI/UX design.
-        </p>
-      </td>
-      <td width="50%">
-        <h3 align="center">🎵 CQL Platform</h3>
-        <div align="center">
-          <a href="https://github.com/Chrxstxqn/cql" target="_blank">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=Chrxstxqn&repo=cql&theme=react&bg_color=1F222E&title_color=00D4AA&hide_border=true" />
-          </a>
-        </div>
-        <p align="center">
-          <strong>HTML • CSS • Web Platform</strong><br/>
-          Modern web platform with GitHub Pages deployment.
-        </p>
-      </td>
-    </tr>
-    <tr>
-      <td width="50%">
-        <h3 align="center">🌎 Kozak Portal</h3>
-        <div align="center">
-          <a href="https://github.com/Chrxstxqn/kozak" target="_blank">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=Chrxstxqn&repo=kozak&theme=react&bg_color=1F222E&title_color=00D4AA&hide_border=true" />
-          </a>
-        </div>
-        <p align="center">
-          <strong>HTML • CSS • Interactive Web</strong><br/>
-          Creative web portal with unique design and functionality.
-        </p>
-      </td>
-      <td width="50%">
-        <h3 align="center">🐾 Smart Pet Dispenser</h3>
-        <div align="center">
-          <a href="https://github.com/Chrxstxqn/Capolavoro" target="_blank">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=Chrxstxqn&repo=Capolavoro&theme=react&bg_color=1F222E&title_color=00D4AA&hide_border=true" />
-          </a>
-        </div>
-        <p align="center">
-          <strong>Arduino • IoT • Automation</strong><br/>
-          Intelligent pet feeding system with web control interface.
-        </p>
-      </td>
-    </tr>
-    <tr>
-      <td width="50%">
         <h3 align="center">🔒 URL Security Scanner</h3>
         <div align="center">
           <a href="https://github.com/Chrxstxqn/URL-Scan" target="_blank">
@@ -152,6 +100,58 @@ I specialize in creating **cross-platform applications** and exploring cutting-e
         <p align="center">
           <strong>HTML • CSS • Educational</strong><br/>
           Curated collection of interactive quiz platforms and tools.
+        </p>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%">
+        <h3 align="center">🌎 Kozak Portal</h3>
+        <div align="center">
+          <a href="https://github.com/Chrxstxqn/kozak" target="_blank">
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=Chrxstxqn&repo=kozak&theme=react&bg_color=1F222E&title_color=00D4AA&hide_border=true" />
+          </a>
+        </div>
+        <p align="center">
+          <strong>HTML • CSS • Interactive Web</strong><br/>
+          Creative web portal with unique design and functionality.
+        </p>
+      </td>
+      <td width="50%">
+        <h3 align="center">🎵 CQL Platform</h3>
+        <div align="center">
+          <a href="https://github.com/Chrxstxqn/cql" target="_blank">
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=Chrxstxqn&repo=cql&theme=react&bg_color=1F222E&title_color=00D4AA&hide_border=true" />
+          </a>
+        </div>
+        <p align="center">
+          <strong>HTML • CSS • Web Platform</strong><br/>
+          Modern web platform with GitHub Pages deployment.
+        </p>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%">
+        <h3 align="center">⚡ FSK-DOS Tool</h3>
+        <div align="center">
+          <a href="https://github.com/Chrxstxqn/FSK-DOS" target="_blank">
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=Chrxstxqn&repo=FSK-DOS&theme=react&bg_color=1F222E&title_color=00D4AA&hide_border=true" />
+          </a>
+        </div>
+        <p align="center">
+          <strong>Python • Network Testing</strong><br/>
+          Network stress testing tool for educational purposes.
+        </p>
+      </td>
+      <td width="50%">
+        <h3 align="center">🐧 Pingusay</h3>
+        <div align="center">
+          <a href="https://github.com/Chrxstxqn/Pingusay" target="_blank">
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=Chrxstxqn&repo=Pingusay&theme=react&bg_color=1F222E&title_color=00D4AA&hide_border=true" />
+          </a>
+        </div>
+        <p align="center">
+          <strong>Python • Utility Tool</strong><br/>
+          Simple Python utility for network connectivity testing.
         </p>
       </td>
     </tr>
@@ -182,6 +182,17 @@ I specialize in creating **cross-platform applications** and exploring cutting-e
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Chrxstxqn&theme=onedark&no-frame=true&no-bg=true&margin-w=4&row=1" alt="GitHub Trophies"/>
 </div>
+
+---
+
+## 💻 Latest Projects & Experiments
+
+- 🎵 **CQL Platform** - Modern web platform with interactive features
+- 🌎 **Kozak Portal** - Creative web experience with unique design
+- 🔒 **URL Security Scanner** - Advanced malware & phishing detection
+- 📊 **Educational Quiz Collection** - Interactive learning platforms
+- ⚡ **Network Testing Tools** - Educational cybersecurity utilities
+- 🔊 **Voice Cloning Research** - Exploring AI-powered voice synthesis
 
 ---
 

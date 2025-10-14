@@ -1,8 +1,8 @@
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px" /> Hey there, I'm **Christian**! 👋
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00D4AA&center=true&vCenter=true&width=600&lines=🚀+Mobile+%26+Web+Developer;📱+Flutter+%26+Dart+Specialist;🔐+Cybersecurity+Enthusiast;⚙️+IoT+%26+MQTT+Expert;💡+Always+Learning+New+Tech" alt="Typing SVG" />
-</div>
+</div> -->
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Chrxstxqn&label=Profile%20views&color=00D4AA&style=flat" alt="Profile views" />
@@ -130,32 +130,6 @@ I specialize in creating **cross-platform applications** and exploring cutting-e
 
 ---
 
-## 📈 Current Learning Path
-
-```mermaid
-graph TB
-    A[🎯 2025 Goals] --> B[📱 Flutter Mastery]
-    A --> C[🔐 Advanced Security]
-    A --> D[⚙️ IoT Integration]
-    
-    B --> E[State Management]
-    B --> F[Custom Animations]
-    B --> G[Platform Channels]
-    
-    C --> H[Penetration Testing]
-    C --> I[Reverse Engineering]
-    
-    D --> J[MQTT Protocols]
-    D --> K[Edge Computing]
-    
-    style A fill:#00D4AA
-    style B fill:#02569B
-    style C fill:#FF6B6B
-    style D fill:#4ECDC4
-```
-
----
-
 ## 📊 GitHub Analytics
 
 <div align="center">
@@ -191,17 +165,7 @@ graph TB
 
 ---
 
-## 🎵 Latest Projects & Experiments
-
-- 🔊 **Voice Cloning Research** - Exploring AI-powered voice synthesis
-- 📱 **Flutter MQTT Client** - Real-time IoT communication app
-- 🔐 **Security Automation Tools** - Custom penetration testing scripts
-- 📊 **Trading Analysis Dashboard** - Market data visualization platform
-- 🎮 **Interactive Web Experiences** - Creative coding with Three.js
-
----
-
-## 💬 Let's Connect!
+## 💬 Let's Connect! (Coming Soon)
 
 <div align="center">
   <a href="https://chrxstxqn.github.io" target="_blank">

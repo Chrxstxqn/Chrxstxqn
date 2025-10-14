@@ -1,8 +1,12 @@
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px" /> Hey there, I'm **Christian**! 👋
+<div align="center">
+  <img src="https://avatars.githubusercontent.com/u/137430908?v=4" width="200px" style="border-radius: 50%; border: 4px solid #00D4AA; box-shadow: 0 8px 32px rgba(0, 212, 170, 0.3);" alt="Christian's Profile Picture" />
+</div>
 
-<!-- <div align="center">
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px" /> Welcome to my digital world! 🌍
+
+<div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00D4AA&center=true&vCenter=true&width=600&lines=🚀+Mobile+%26+Web+Developer;📱+Flutter+%26+Dart+Specialist;🔐+Cybersecurity+Enthusiast;⚙️+IoT+%26+MQTT+Expert;💡+Always+Learning+New+Tech" alt="Typing SVG" />
-</div> -->
+</div>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Chrxstxqn&label=Profile%20views&color=00D4AA&style=flat" alt="Profile views" />
@@ -84,6 +88,32 @@ I specialize in creating **cross-platform applications** and exploring cutting-e
         <p align="center">
           <strong>TypeScript • Three.js • Web</strong><br/>
           Interactive 3D web experience with modern UI/UX design.
+        </p>
+      </td>
+      <td width="50%">
+        <h3 align="center">🎵 CQL Platform</h3>
+        <div align="center">
+          <a href="https://github.com/Chrxstxqn/cql" target="_blank">
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=Chrxstxqn&repo=cql&theme=react&bg_color=1F222E&title_color=00D4AA&hide_border=true" />
+          </a>
+        </div>
+        <p align="center">
+          <strong>HTML • CSS • Web Platform</strong><br/>
+          Modern web platform with GitHub Pages deployment.
+        </p>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%">
+        <h3 align="center">🌎 Kozak Portal</h3>
+        <div align="center">
+          <a href="https://github.com/Chrxstxqn/kozak" target="_blank">
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=Chrxstxqn&repo=kozak&theme=react&bg_color=1F222E&title_color=00D4AA&hide_border=true" />
+          </a>
+        </div>
+        <p align="center">
+          <strong>HTML • CSS • Interactive Web</strong><br/>
+          Creative web portal with unique design and functionality.
         </p>
       </td>
       <td width="50%">

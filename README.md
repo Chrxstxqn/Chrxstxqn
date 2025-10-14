@@ -155,16 +155,6 @@ I specialize in creating **cross-platform applications** and exploring cutting-e
 
 ---
 
-## 💻 Weekly Coding Activity
-
-<!--START_SECTION:waka-->
-```text
-🌟 This section will show your WakaTime stats when configured
-```
-<!--END_SECTION:waka-->
-
----
-
 ## 💬 Let's Connect! (Coming Soon)
 
 <div align="center">

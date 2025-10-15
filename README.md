@@ -26,7 +26,6 @@ I specialize in creating **cross-platform applications** and exploring cutting-e
 - 🌐 Develop responsive web applications with **TypeScript & React**  
 - 🔐 Explore **cybersecurity** tools and penetration testing
 - ⚙️ Create **IoT systems** with ESP32, Arduino & MQTT protocols
-- 🎵 Experiment with **voice cloning** and audio processing
 
 🎯 **Current Focus:** Mobile Development with Flutter & IoT Integration  
 📚 **Learning:** Advanced Flutter patterns, MQTT protocols, Docker containerization  

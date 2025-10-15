@@ -179,7 +179,6 @@ I specialize in creating **cross-platform applications** and exploring cutting-e
 - 🔒 **URL Security Scanner** - Advanced malware & phishing detection
 - 📊 **Educational Quiz Collection** - Interactive learning platforms
 - ⚡ **Network Testing Tools** - Educational cybersecurity utilities
-- 🔊 **Voice Cloning Research** - Exploring AI-powered voice synthesis
 
 ---
 

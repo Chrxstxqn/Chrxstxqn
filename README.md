@@ -89,44 +89,8 @@ I specialize in creating **cross-platform applications** and exploring cutting-e
           Advanced malware & phishing detection tool for web security.
         </p>
       </td>
-      <td width="50%">
-        <h3 align="center">📊 ChillQuizzList</h3>
-        <div align="center">
-          <a href="https://github.com/Chrxstxqn/quiz" target="_blank">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=Chrxstxqn&repo=quiz&theme=react&bg_color=1F222E&title_color=00D4AA&hide_border=true" />
-          </a>
-        </div>
-        <p align="center">
-          <strong>HTML • CSS • Educational</strong><br/>
-          Curated collection of interactive quiz platforms and tools.
-        </p>
-      </td>
     </tr>
     <tr>
-      <td width="50%">
-        <h3 align="center">🌎 Kozak Portal</h3>
-        <div align="center">
-          <a href="https://github.com/Chrxstxqn/kozak" target="_blank">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=Chrxstxqn&repo=kozak&theme=react&bg_color=1F222E&title_color=00D4AA&hide_border=true" />
-          </a>
-        </div>
-        <p align="center">
-          <strong>HTML • CSS • Interactive Web</strong><br/>
-          Creative web portal with unique design and functionality.
-        </p>
-      </td>
-      <td width="50%">
-        <h3 align="center">🎵 CQL Platform</h3>
-        <div align="center">
-          <a href="https://github.com/Chrxstxqn/cql" target="_blank">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=Chrxstxqn&repo=cql&theme=react&bg_color=1F222E&title_color=00D4AA&hide_border=true" />
-          </a>
-        </div>
-        <p align="center">
-          <strong>HTML • CSS • Web Platform</strong><br/>
-          Modern web platform with GitHub Pages deployment.
-        </p>
-      </td>
     </tr>
     <tr>
       <td width="50%">

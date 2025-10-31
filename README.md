@@ -172,16 +172,6 @@ I specialize in creating **cross-platform applications** and exploring cutting-e
 
 ---
 
-## 💻 Latest Projects & Experiments
-
-- 🎵 **CQL Platform** - Modern web platform with interactive features
-- 🌎 **Kozak Portal** - Creative web experience with unique design
-- 🔒 **URL Security Scanner** - Advanced malware & phishing detection
-- 📊 **Educational Quiz Collection** - Interactive learning platforms
-- ⚡ **Network Testing Tools** - Educational cybersecurity utilities
-
----
-
 ## 💬 Let's Connect! (Coming Soon)
 
 <div align="center">

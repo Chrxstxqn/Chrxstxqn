@@ -94,15 +94,15 @@ I specialize in creating **cross-platform applications** and exploring cutting-e
     </tr>
     <tr>
       <td width="50%">
-        <h3 align="center">⚡ FSK-DOS Tool</h3>
+        <h3 align="center">🦅 FALCON</h3>
         <div align="center">
           <a href="https://github.com/Chrxstxqn/FSK-DOS" target="_blank">
             <img src="https://github-readme-stats.vercel.app/api/pin/?username=Chrxstxqn&repo=FSK-DOS&theme=react&bg_color=1F222E&title_color=00D4AA&hide_border=true" />
           </a>
         </div>
         <p align="center">
-          <strong>Python • Network Testing</strong><br/>
-          Network stress testing tool for educational purposes.
+          <strong>Python • Hash Cracking</strong><br/>
+          Flexible Authentication Login Cracking & Optimized Node.
         </p>
       </td>
     </tr>
